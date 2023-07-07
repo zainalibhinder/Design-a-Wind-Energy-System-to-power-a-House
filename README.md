@@ -1,6 +1,7 @@
 #  Design a Wind Energy System to Power a House
 
 ![image](https://github.com/zainalibhinder/Design-a-Wind-Energy-System-to-power-a-House/assets/109630795/0700892d-3052-4803-950a-f86ab540ecdc)
+![image](https://github.com/zainalibhinder/Design-a-Wind-Energy-System-to-power-a-House/assets/109630795/39fa714e-52a6-40cc-9741-cddf1ea34fed)
 
 
 
@@ -53,14 +54,16 @@ over a 30 year period (Jan 1984-Dec 2013) is downloaded from the NASA Prediction
 Worldwide Energy Resource (Power) database.
 ![image](https://github.com/zainalibhinder/Design-a-Wind-Energy-System-to-power-a-House/assets/109630795/5d1750ca-3359-4a78-b5f8-4f4e560d940c)
 
- 2) Based on the average wind speed, select the suitable wind turbine by looking at the power curve of different wind turbines inside the Homer Pro. Below is an example where EO10 is selcted based on the average wind speed.
+ 2) Based on the average wind speed, select the suitable wind turbine by looking at the power curve of different wind turbines inside the Homer Pro.
+     Below is an example where EO10 is selcted based on the average wind speed.
 ![image](https://github.com/zainalibhinder/Design-a-Wind-Energy-System-to-power-a-House/assets/109630795/4db1e71f-d02d-4ae5-b6a5-7a225ebb65c5)
 
 ## Cable Specifications
 
-1) Determine the load current and calulate the resisteance to compensate for temperature. Also make sure the coltage drop is within acceptable range as per NEC specifications:
+1) Determine the load current and calulate the resisteance to compensate for temperature.
+   Also make sure the voltage drop is within acceptable range as per NEC specifications:
  ![image](https://github.com/zainalibhinder/Design-a-Wind-Energy-System-to-power-a-House/assets/109630795/19d049d7-ca36-4af1-9360-5ac280c55df9)
-
+Rest of the caluculation is given in the project report.
 
 
 
